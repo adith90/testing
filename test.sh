@@ -1,1 +1,1 @@
-ech "welcome to devops"
+echo "welcome to devops"
