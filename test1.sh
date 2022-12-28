@@ -1,1 +1,1 @@
-echo "hiiii"
+echo "Sample Test"
